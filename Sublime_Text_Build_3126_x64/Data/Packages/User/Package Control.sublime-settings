@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"Bootstrap 3 Autocomplete",
+		"CleanCSS",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"Emmet",
+		"LiveReload",
+		"Package Control",
+		"PHPSnippets",
+		"SideBarEnhancements"
+	]
+}
