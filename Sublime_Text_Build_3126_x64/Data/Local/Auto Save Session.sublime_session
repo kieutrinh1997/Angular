@@ -246,30 +246,19 @@
 			"buffers":
 			[
 				{
-					"contents": "",
-					"file": "/D/xampp/htdocs/Angular/index.php",
-					"file_size": 0,
-					"file_write_time": 131946031712703525,
+					"file": "/D/xampp/htdocs/Angular/bai2/1.js",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 126,
+						"encoding": "UTF-8 with BOM",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/xampp/htdocs/Angular/bai1/vendor/angular1.5.js",
+					"file": "/D/xampp/htdocs/Angular/bai2/index.html",
 					"settings":
 					{
-						"buffer_size": 157918,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/xampp/htdocs/Angular/bai1/index.html",
-					"settings":
-					{
-						"buffer_size": 306,
+						"buffer_size": 982,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -324,11 +313,13 @@
 			"expanded_folders":
 			[
 				"/D/xampp/htdocs/Angular",
-				"/D/xampp/htdocs/Angular/bai1",
-				"/D/xampp/htdocs/Angular/bai1/vendor"
+				"/D/xampp/htdocs/Angular/bai2"
 			],
 			"file_history":
 			[
+				"/D/xampp/htdocs/Angular/index.php",
+				"/D/xampp/htdocs/Angular/bai1/vendor/angular1.5.js",
+				"/D/xampp/htdocs/Angular/bai1/index.html",
 				"/D/xampp/php/php.ini",
 				"/D/xampp/htdocs/PHP/bai1/12.html",
 				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/CleanCSS.sublime-settings",
@@ -388,58 +379,28 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/xampp/htdocs/Angular/index.php",
+							"file": "/D/xampp/htdocs/Angular/bai2/1.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 0,
+								"buffer_size": 126,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										122,
+										122
 									]
 								],
 								"settings":
 								{
-									"open_with_edit": true,
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/xampp/htdocs/Angular/bai1/vendor/angular1.5.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 157918,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										157918,
-										157918
-									]
-								],
-								"settings":
-								{
-									"open_with_edit": true,
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
@@ -450,25 +411,24 @@
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/D/xampp/htdocs/Angular/bai1/index.html",
+							"buffer": 1,
+							"file": "/D/xampp/htdocs/Angular/bai2/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 306,
+								"buffer_size": 982,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										276,
-										276
+										439,
+										439
 									]
 								],
 								"settings":
 								{
-									"open_with_edit": true,
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
@@ -517,7 +477,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1055,-5,2,967",
+			"position": "0,0,1,-32000,-32000,-1,-1,1055,-5,2,990",
 			"project": "",
 			"replace":
 			{
