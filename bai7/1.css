@@ -1,0 +1,11 @@
+*{margin: 0; padding: 0;}  
+.mot_tin{
+	border-bottom: 1px solid gray;
+	padding: 10px 0;
+}
+.luoi .mot_tin{
+	width: 23%;
+	margin-right: 2%;
+	foat:left;
+	height: 300px;
+}

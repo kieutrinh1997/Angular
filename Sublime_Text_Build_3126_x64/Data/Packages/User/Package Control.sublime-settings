@@ -5,8 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Angular Material Snippets",
 		"AutoFileName",
 		"Bootstrap 3 Autocomplete",
+		"Bootstrap 4 Autocomplete",
+		"Bootstrap 4 Snippets",
 		"CleanCSS",
 		"CodeIgniter Snippets",
 		"CodeIgniter Utilities",
