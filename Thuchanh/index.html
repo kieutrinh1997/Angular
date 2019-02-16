@@ -10,10 +10,17 @@
  	<link rel="stylesheet" href="1.css">
 </head>
 <body ng-app="myApp" ng-controller="MyController">
-	
-	<h1 class="display-4">{{a1}}</h1>
-	<input type="text" ng-model="a1">
-	<button class="btn btn-info">OKHTTP</button>
+
+	<div class="khoi1 cards" ng-show="hienthi">
+		<b ng-model="text">Lorem ipsum dolor sit amet</b>
+		<button class="btn btn-info" ng-click="doihienthi()"><i class="fa fa-pencil"></i></button>
+	</div>
+	<div class="khoi2" ng-show="!hienthi">
+		<input type="text" name="" >
+		<b class="btn btn-danger" ng-click="doihienthi()"><i class="fa fa-pencil"></i></b>
+	</div>
+	 
+
 
 
 	<script type="text/javascript" src="vendor/bootstrap.js"></script>  

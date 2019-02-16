@@ -25,11 +25,11 @@
 		"/C/Users/ThanhLD/Desktop/draft"
 	],
 	"last_version": 3143,
-	"last_window_id": 46,
+	"last_window_id": 47,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 930.0,
+		"new_window_height": 994.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -37,186 +37,41 @@
 				"selected_items":
 				[
 					[
-						"mat",
-						"margin-top"
+						"ng-c",
+						"ng-click\tAngularJS"
 					],
 					[
-						"u",
-						"hqdefault.jpg\tw:480 h:360"
+						"btn-",
+						"btn-danger \tBootstrap 3 Class"
 					],
 					[
-						"back",
-						"background-image"
+						"fo",
+						"form\tAttr"
 					],
 					[
-						"backc",
-						"background-color"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"last_filter": "Package Control: ",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
+						"sco",
+						"$scope\tAngularJS"
 					],
 					[
-						"LiveReload: Enable/disable plugins",
-						"LiveReload: Enable/disable plug-ins"
+						"btn",
+						"btn-info \tBootstrap 3 Class"
 					],
 					[
-						"pack",
-						"Package Control: Remove Package"
+						"displa",
+						"display-3 \tBootstrap 4 Class"
 					],
 					[
-						"pac",
-						"Install Package Control"
-					]
-				],
-				"width": 392.0
-			},
-			"console":
-			{
-				"height": 0.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/D/xampp/php/php.ini",
-				"/D/xampp/htdocs/PHP/bai1/12.html",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/CleanCSS.sublime-settings",
-				"/D/xampp/htdocs/03/application/controllers/nhansu.php",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/CleanCSS/CleanCSS.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/AutoFileName/autofilename.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/LiveReload/LiveReload.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/LiveReload.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/Emmet/Emmet.sublime-settings",
-				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
-				"/D/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
-				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/index.php",
-				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
-				"/C/Users/ThanhLD/Desktop/draft/index.html",
-				"/E/www/thocuchuoi.com-wp/wp-content/index.php",
-				"/D/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
-				"/C/Users/ThanhLD/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/style.css",
-				"/C/Users/ThanhLD/Desktop/draft/IMG_6176.jpg"
-			],
-			"find":
-			{
-				"height": 45.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"dis"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 45.0
-			},
-			"input":
-			{
-				"height": 45.0
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 86.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 101.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 976.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
+						"displ",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"form-control",
+						"form-control-danger \tBootstrap 4 Class"
+					],
 					[
 						"mar",
 						"margin-right"
@@ -232,10 +87,6 @@
 					[
 						"back",
 						"background"
-					],
-					[
-						"fo",
-						"form-group \tBootstrap 3 Class"
 					],
 					[
 						"bs",
@@ -271,40 +122,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/D/xampp/htdocs/Angular/bai7/index.html",
-					"settings":
-					{
-						"buffer_size": 3613,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/xampp/htdocs/Angular/bai7/1.css",
-					"settings":
-					{
-						"buffer_size": 167,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": " var app = angular.module('myApp',['ngMaterial']);\n app.controller('MyController',  function($scope){\n  $scope.thamso =\"cai nay dung o dau cung duoc\";\n  $scope.\n }) ",
-					"file": "/D/xampp/htdocs/Angular/bai7/1.js",
-					"file_size": 161,
-					"file_write_time": 131946760375941304,
-					"settings":
-					{
-						"buffer_size": 165,
-						"encoding": "UTF-8 with BOM",
-						"line_ending": "Windows"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -332,7 +149,7 @@
 						"Install Package Control"
 					]
 				],
-				"width": 412.0
+				"width": 606.0
 			},
 			"console":
 			{
@@ -350,21 +167,22 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/D/xampp/htdocs/Angular",
-				"/D/xampp/htdocs/Angular/bai7"
-			],
 			"file_history":
 			[
+				"/D/xampp/htdocs/Angular/bai2/index.html",
+				"/D/xampp/htdocs/Angular/bai2/1.js",
+				"/D/xampp/htdocs/Angular/bai8/index.html",
+				"/D/xampp/htdocs/Angular/bai8/1.js",
+				"/D/xampp/htdocs/Angular/bai9/1.js",
+				"/D/xampp/htdocs/Angular/bai7/index.html",
+				"/D/xampp/htdocs/Angular/bai7/1.css",
+				"/D/xampp/htdocs/Angular/bai7/1.js",
 				"/D/xampp/htdocs/Angular/bai5/index.html",
 				"/D/xampp/htdocs/Angular/bai6/index.html",
 				"/D/xampp/htdocs/Angular/bai6/1.css",
-				"/D/xampp/htdocs/Angular/bai2/index.html",
 				"/D/xampp/htdocs/Angular/bai4/index.html",
 				"/D/xampp/htdocs/Angular/bai4/1.css",
 				"/D/xampp/htdocs/Angular/bai2/1.css",
-				"/D/xampp/htdocs/Angular/bai2/1.js",
 				"/D/xampp/htdocs/Angular/index.php",
 				"/D/xampp/htdocs/Angular/bai1/vendor/angular1.5.js",
 				"/D/xampp/htdocs/Angular/bai1/index.html",
@@ -404,6 +222,302 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Aliquid",
+					"1_tin"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 177.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 945.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ng-s",
+						"ng-show\tAngularJS"
+					],
+					[
+						"ng-cl",
+						"ng-click\tAngularJS"
+					],
+					[
+						"ng-c",
+						"ng-click\tAngularJS"
+					],
+					[
+						"btn-",
+						"btn-danger \tBootstrap 3 Class"
+					],
+					[
+						"fo",
+						"form\tAttr"
+					],
+					[
+						"sco",
+						"$scope\tAngularJS"
+					],
+					[
+						"btn",
+						"btn-info \tBootstrap 3 Class"
+					],
+					[
+						"displa",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"displ",
+						"display-3 \tBootstrap 4 Class"
+					],
+					[
+						"fu",
+						"function"
+					],
+					[
+						"form-control",
+						"form-control-danger \tBootstrap 4 Class"
+					],
+					[
+						"mar",
+						"margin-right"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"b4j",
+						"b4:jumbotron\tjumbotron"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"bs",
+						"bootstrap"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"se",
+						"select\tTag"
+					],
+					[
+						"in",
+						"input\tTag"
+					],
+					[
+						"laod",
+						"load_model\tCI - Load Model"
+					],
+					[
+						"mat",
+						"margin-top"
+					],
+					[
+						"u",
+						"hqdefault.jpg\tw:480 h:360"
+					],
+					[
+						"backc",
+						"background-color"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/xampp/htdocs/Angular/lamthat/index.html",
+					"settings":
+					{
+						"buffer_size": 980,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"LiveReload: Enable/disable plugins",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Install Package Control"
+					]
+				],
+				"width": 606.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+			],
+			"file_history":
+			[
+				"/C/Users/nguye/OneDrive/Desktop/InstantWP-5.3.6/README.md",
+				"/C/Users/nguye/OneDrive/Desktop/InstantWP-5.3.6/LICENSE",
+				"/C/Users/nguye/OneDrive/Desktop/InstantWP-5.3.6/.gitignore",
+				"/D/xampp/htdocs/Angular/Thuchanh/index.html",
+				"/D/xampp/htdocs/Angular/Thuchanh/1.js",
+				"/D/xampp/htdocs/Angular/bai2/index.html",
+				"/D/xampp/htdocs/Angular/bai2/1.js",
+				"/D/xampp/htdocs/Angular/bai8/index.html",
+				"/D/xampp/htdocs/Angular/bai8/1.js",
+				"/D/xampp/htdocs/Angular/bai9/1.js",
+				"/D/xampp/htdocs/Angular/bai7/index.html",
+				"/D/xampp/htdocs/Angular/bai7/1.css",
+				"/D/xampp/htdocs/Angular/bai7/1.js",
+				"/D/xampp/htdocs/Angular/bai5/index.html",
+				"/D/xampp/htdocs/Angular/bai6/index.html",
+				"/D/xampp/htdocs/Angular/bai6/1.css",
+				"/D/xampp/htdocs/Angular/bai4/index.html",
+				"/D/xampp/htdocs/Angular/bai4/1.css",
+				"/D/xampp/htdocs/Angular/bai2/1.css",
+				"/D/xampp/htdocs/Angular/index.php",
+				"/D/xampp/htdocs/Angular/bai1/vendor/angular1.5.js",
+				"/D/xampp/htdocs/Angular/bai1/index.html",
+				"/D/xampp/php/php.ini",
+				"/D/xampp/htdocs/PHP/bai1/12.html",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/CleanCSS.sublime-settings",
+				"/D/xampp/htdocs/03/application/controllers/nhansu.php",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/CleanCSS/CleanCSS.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/AutoFileName/autofilename.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/LiveReload.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/Emmet/Emmet.sublime-settings",
+				"/D/PHP&mysql MVC/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
+				"/D/Sublime_Text_Build_3126_x64/Data/Packages/User/Emmet.sublime-settings",
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/index.php",
+				"/E/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/index.html",
+				"/E/www/thocuchuoi.com-wp/wp-content/index.php",
+				"/D/www/thocuchuoi.com-wp/wp-content/themes/mytheme/style.css",
+				"/C/Users/ThanhLD/AppData/Local/Temp/FileZillaPortableTemp/fz3temp-2/style.css",
+				"/C/Users/ThanhLD/Desktop/draft/IMG_6176.jpg"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Aliquid",
 					"1_tin"
 				],
 				"highlight": true,
@@ -428,85 +542,29 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/xampp/htdocs/Angular/bai7/index.html",
-							"semi_transient": false,
+							"file": "/D/xampp/htdocs/Angular/lamthat/index.html",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 3613,
+								"buffer_size": 980,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										682,
-										682
+										0,
+										0
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/xampp/htdocs/Angular/bai7/1.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 167,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										118,
-										118
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/xampp/htdocs/Angular/bai7/1.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 165,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										160,
-										160
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -554,7 +612,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,1053,-1,9,1003",
+			"position": "0,0,1,-32000,-32000,-1,-1,1057,-7,4,954",
 			"project": "",
 			"replace":
 			{
