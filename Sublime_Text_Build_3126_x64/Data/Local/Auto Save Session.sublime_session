@@ -318,6 +318,30 @@
 				"selected_items":
 				[
 					[
+						"arr",
+						"array"
+					],
+					[
+						"ar",
+						"array"
+					],
+					[
+						"db",
+						"db_update\tCI - Active Record DB Update"
+					],
+					[
+						"dbup",
+						"dbplus_update"
+					],
+					[
+						"f",
+						"f\tPHP: function definition"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
 						"dbresul",
 						"db_result_array\tCI - Active Record DB Result Array"
 					],
@@ -433,16 +457,33 @@
 					"file": "/D/AngularJS/xampp/htdocs/angular1/application/controllers/Welcome.php",
 					"settings":
 					{
-						"buffer_size": 800,
+						"buffer_size": 1174,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/AngularJS/xampp/htdocs/angular1/application/controllers/Nguoidung.php",
+					"settings":
+					{
+						"buffer_size": 342,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/AngularJS/xampp/htdocs/angular1/application/views/dulieunguoidung.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Windows"
 					}
 				},
 				{
 					"file": "/D/AngularJS/xampp/htdocs/angular1/application/models/angular1_php_model2.php",
 					"settings":
 					{
-						"buffer_size": 449,
+						"buffer_size": 833,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -588,7 +629,7 @@
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -597,15 +638,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 800,
+								"buffer_size": 1174,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										782,
-										782
+										1124,
+										1124
 									]
 								],
 								"settings":
@@ -614,7 +655,7 @@
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1846.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -622,19 +663,83 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/D/AngularJS/xampp/htdocs/angular1/application/models/angular1_php_model2.php",
+							"file": "/D/AngularJS/xampp/htdocs/angular1/application/controllers/Nguoidung.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 449,
+								"buffer_size": 342,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										324,
-										324
+										342,
+										342
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/AngularJS/xampp/htdocs/angular1/application/views/dulieunguoidung.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 3,
+							"file": "/D/AngularJS/xampp/htdocs/angular1/application/models/angular1_php_model2.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 833,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										718,
+										718
 									]
 								],
 								"settings":
@@ -669,11 +774,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.212696241553,
 					1.0
 				],
 				"rows":
@@ -688,7 +800,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1053,765,0,1726",
+			"position": "0,2,1,-32000,-32000,-1,-1,1053,920,0,1881",
 			"project": "",
 			"replace":
 			{
@@ -722,7 +834,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -730,7 +842,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 335.0,
+			"side_bar_width": 142.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
